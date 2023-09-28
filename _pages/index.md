@@ -9,7 +9,7 @@ permalink: /
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   가야고 정신병원의 웹페이지의 로비이다.
-  [[계획에 대하여]]
+  [[ㄱ계획에 대하여]]
 </p>
 
 
